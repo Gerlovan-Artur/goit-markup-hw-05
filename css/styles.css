@@ -207,6 +207,7 @@ a.link {
     margin-left: auto;
     margin-right: auto;
     margin-top: var(--feature-gap);
+    border: none;
 
 
     min-width: 200px;
@@ -248,7 +249,7 @@ a.link {
     pointer-events: none;
 
     transform: scale(2, 2);
-
+    
     
 }
 .modal {
